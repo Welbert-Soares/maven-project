@@ -17,8 +17,6 @@ public class FabricaConexao {
         } catch (Exception ex) {
             ex.printStackTrace();
         }
-
-
     }
 
     public static Connection getConexao() {
